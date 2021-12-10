@@ -1,40 +1,57 @@
-AlertOps Expert Guidance
+Digital Retail Tips: Reduce Downtime on Black Friday (and Cyber Monday)
 ========
 
+ Black Friday is one of the biggest days of the year for online consumers and retailers alike. This year, the coronavirus (COVID-19) pandemic is reshaping Holiday shopping — and digital consumers and retailers must plan accordingly.
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+What Will Holiday Shopping Look Like in 2020?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+The coronavirus pandemic will likely cause Black Friday shopping to decline this year. As such, many digital retailers are launching early Black Friday sales, so they can capture consumers’ interest ahead of the competition.
 
-Clarity
+Consumers may increasingly search online for the best deals on Black Friday, due in large part to the fear and uncertainty surrounding the pandemic. Meanwhile, many digital retailers may offer unprecedented discounts and promotions to accommodate digital shoppers who are shying away from brick-and-mortar stores on Black Friday.
+
+Why Is Uptime Critical for Digital Retailers?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+For e-commerce retailers, providing shoppers with a seamless shopping experience is key. If digital retailers prioritize e-commerce uptime, they can ensure online shoppers can quickly and easily purchase items on Black Friday.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+To understand why uptime is critical for digital retailers, let’s consider what can happen if an e-commerce website stops working on Black Friday. In this instance, consumers cannot shop for items. Since these consumers cannot buy what they want, they may look elsewhere for Black Friday deals — and cost a digital retailer hundreds or thousands of dollars in lost revenues for each minute of downtime.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+There is no telling when a website will crash, but the problem can be mitigated if a digital retailer prioritizes incident management. If a digital retailer has site reliability engineers (SREs) on hand who can quickly and effectively respond to incidents, it can even avoid Black Friday downtime.
+How Can SREs Help Digital Retailers Avoid Black Friday Downtime?
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+SREs bridge the gap between providing on-call support and identifying ways to optimize website performance and reliability. Additionally, they often explore ways to automate incident management, so they can get the most value out of the time and resources at their disposal.
 
-1 Red Canary 2021 Threat Detection Report
+If Black Friday downtime occurs, SRE teams are ready to respond. To limit downtime and prevent it from becoming a recurring problem on Black Friday, SREs must keep in contact with one another as an incident progresses. That way, they can identify the root cause of downtime and work with one another to alleviate the issue.
+
+SREs must uncover ways to prevent Black Friday downtime from happening in the first place, too. If SRE teams establish appropriate procedures that are automatically triggered as soon as an incident is detected, they can ensure on-call responders can address the issue right away. This helps accelerate incident response, as the right SREs can get the information they need to resolve the incident. It ensures that these SREs can manage the incident, notify the proper stakeholders, and minimize its impact as well.
+How Can a Digital Retailer and Its SREs Use an Incident Management Platform?
+
+An incident management platform can benefit digital retailers and SREs as they prepare for l Black Friday. The platform drives fast, effective incident management and response, and it ensures that incidents can be resolved before they cause substantial revenue losses.
+
+With an incident management platform, a digital retailer can instantly mobilize SREs. It can automatically alert an SRE team about downtime and “blast” escalations if a primary on-call SRE does not respond immediately.
+Also, an incident management platform ensures SRE team members can share situational awareness throughout an incident. The platform allows SREs to communicate and collaborate with one another in real time via email, SMS, push notifications, and other communication methods, so they can stay up to date and work together to fully resolve an incident.
+
+An SRE team can use an incident management platform to proactively update executives, support teams, and other departments about an incident. They can even leverage the platform to consolidate incident alerts to differentiate critical alerts from non-critical ones and avoid alert fatigue.
+How Can Digital Retailers and SREs Use AlertOps on Black Friday and Beyond?
+
+The AlertOps platform was designed to keep backend systems running on Black Friday and beyond. Our platform makes it simple to protect e-commerce sales, as it empowers an SRE team to quickly initiate a response once an incident has been identified.
+
+With AlertOps, SREs can:
+
+    Use advanced rules to send incident alerts
+    Restart servers
+    Block IP addresses
+    Create and update status pages
+    Automate escalations
+    Trigger repair operations
+
+An SRE team can use AlertOps to notify relevant stakeholders throughout the incident and resolve issues before they a website’s performance or reliability. As a result, our platform can help SREs speed up incident mean time to resolution (MTTR) and maximize uptime.
+Moving forward in E-Commerce – every day is Black Friday.
+
+By partnering with AlertOps, digital retailers can help their SREs automate incident management processes, procedures, and systems leading up to Black Friday. They can also ensure that their SREs are well-equipped to stop cyberattacks and other IT issues that otherwise cause downtime.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/reduce-downtime-digital-retail/
 
 Read more:
 ====
